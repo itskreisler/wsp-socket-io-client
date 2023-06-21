@@ -1,0 +1,11 @@
+*.env
+*.test.*
+*.spec.*
+node_modules
+frontend/node_modules
+frontend/dist
+
+package-lock.json
+
+.wwebjs_cache
+.wwebjs_auth
